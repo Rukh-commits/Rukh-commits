@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, Mahrukh
+#### Design and Development
+![Design and Development](https://swas.io/static/hello-world-banner-d0a141d7bfcd1933c1d175b273805281-45f1b.jpg)
 
-<!--
-**Rukh-commits/Rukh-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Mahrukh. I work on Design and Development. I enjoy UX, UI, wireframing, and design in general. 
 
-Here are some ideas to get you started:
+Skills: REACT NATIVE / JS / HTML / CSS 
 
-- 👂 My name is Mahrukh.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a react native project. 
+
+
+
+
