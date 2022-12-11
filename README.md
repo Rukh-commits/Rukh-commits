@@ -1,6 +1,7 @@
 ### Hi there 👋, Mahrukh
 #### Design and Development
-![Design and Development](https://swas.io/static/hello-world-banner-d0a141d7bfcd1933c1d175b273805281-45f1b.jpg)
+![Design and Development](![image](https://user-images.githubusercontent.com/85631958/206924471-93d6d82c-8fed-4d6e-9c92-2d3aaf1b9a92.png)
+)
 
 I am Mahrukh. I work on Design and Development. I enjoy UX, UI, wireframing, and design in general. 
 
