@@ -1,8 +1,6 @@
 ### Hi there 👋, Mahrukh
 #### Design and Development
-![Design and Development](![image](https://user-images.githubusercontent.com/85631958/206924471-93d6d82c-8fed-4d6e-9c92-2d3aaf1b9a92.png)
-)
-
+![Design and Development](https://huetteplays.de/wp-content/uploads/2021/11/B6334A6D-EC43-458F-8424-8FFA8792474F.png)
 I am Mahrukh. I work on Design and Development. I enjoy UX, UI, wireframing, and design in general. 
 
 Skills: REACT NATIVE / JS / HTML / CSS 
