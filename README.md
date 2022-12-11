@@ -7,6 +7,12 @@ Skills: REACT NATIVE / JS / HTML / CSS
 
 - 🔭 I’m currently working on a react native project.
 
+<div align="center">
+  <a href="https://1999azzar.github.io/1999AZZAR/">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 Social icons section.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
